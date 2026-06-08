@@ -172,7 +172,6 @@ All analytical KPIs are computed via DAX measures rather than pre-aggregated col
 | Layer | Technology |
 |---|---|
 | Data Warehouse | Star Schema (PostgreSQL) |
-| ETL Orchestration | Apache Airflow |
 | Data Processing | Python, SQL |
 | BI & Dashboards | Power BI (DAX) |
 | Development Environment | VS Code, pgAdmin |
